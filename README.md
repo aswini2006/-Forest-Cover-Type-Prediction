@@ -4,7 +4,7 @@ This project uses a Random Forest Classifier to predict the forest cover type fr
 
 ## 📂 Dataset
 
-The dataset is taken from [Kaggle](https://www.kaggle.com/competitions/forest-cover-type-prediction/data) and includes features like elevation, slope, soil type, and wilderness area to classify forest cover types.
+The dataset is taken from [Kaggle]([https://www.kaggle.com/competitions/forest-cover-type-prediction/data](https://www.kaggle.com/datasets/aswinireddy610610/forest-cover-dataset)) and includes features like elevation, slope, soil type, and wilderness area to classify forest cover types.
 
 ## 🚀 Features
 
