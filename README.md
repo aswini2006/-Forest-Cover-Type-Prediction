@@ -22,5 +22,28 @@ The dataset is taken from [Kaggle](https://www.kaggle.com/competitions/forest-co
     ```bash
     python -m venv venv
    source venv/bin/activate  # or `venv\Scripts\activate` on Windows
+3. Install dependencies:
+    ```bash
+    pip install -r requirements.txt
+## 📊 Usage
+Place the dataset CSV file in the root directory or modify the path accordingly in the script.
+
+Run the model script:
+     ```bash
+     python model.py
+## 📈 Output
+Accuracy score
+
+Confusion Matrix
+
+Classification Report
+
+## 📌 Requirements
+See requirements.txt for all dependencies.
+
+## 📄 License
+MIT License
+
+
 
 
